@@ -44,4 +44,4 @@ An automated, cloud-connected plant irrigation system built with an **ESP8266 (N
 * Add push notifications for "Water Tank Empty" status.
 
 ---
-*Developed by [Το Όνομά σου Εδώ] - Feel free to reach out or contribute!*
+*Developed by [Dimitris Damoulas] - Feel free to reach me out
