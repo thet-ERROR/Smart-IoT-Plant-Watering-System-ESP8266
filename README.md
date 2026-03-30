@@ -27,11 +27,8 @@ An automated, cloud-connected plant irrigation system built with an **ESP8266 (N
 * **IoT Concepts** (Telemetry, Actuation, State Management)
 
 ## 📸 Project Showcase
-
-*(Tip: Upload a photo of your web dashboard and a photo of your physical setup here. Even if it's a DIY prototype, it shows hands-on maker skills!)*
-
-![Web Dashboard](Images/IMG_2249.jpeg)
 ![Hardware Setup](Images/image123.png)
+![Web Dashboard](Images/IMG_2249.jpeg)
 
 ## ⚙️ How It Works (Circuit Logic)
 
