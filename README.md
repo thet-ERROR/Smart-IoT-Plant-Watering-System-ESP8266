@@ -28,6 +28,7 @@ An automated, cloud-connected plant irrigation system built with an **ESP8266 (N
 
 ## 📸 Project Showcase
 ![Hardware Setup](Images/image123.png)
+![Hardware Setup]((Images/IMG_2240.jpeg)
 ![Web Dashboard](Images/IMG_2249.jpeg)
 
 ## ⚙️ How It Works (Circuit Logic)
